@@ -1,0 +1,23 @@
+body{
+    color: rgb(214, 235, 228);
+    background: rgb(153, 12, 219);
+}
+.heading
+{
+    width: 80%;
+    font-size: 22px;
+}
+#camera
+{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+.nameOfObjects, #resultObjectName , #resultObjectAccuracy
+{
+    color:rgb(0, 0, 0);
+}
+#checkbtn
+{
+    display: none;
+}
